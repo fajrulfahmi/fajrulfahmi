@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Pixelify+Sans&size=30&pause=1000&color=FFC83D&center=true&vCenter=true&random=false&width=435&lines=Hello+Everyone!%F0%9F%91%8B" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Pixelify+Sans&size=30&pause=1000&color=70A5FD&center=true&vCenter=true&random=false&width=435&lines=Hello+Everyone!" />
 </h1>
 
 <h2 align="center">Stats</h2>
