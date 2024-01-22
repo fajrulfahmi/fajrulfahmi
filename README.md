@@ -17,7 +17,7 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/fajrulfahmi/fajrulfahmi/output/github-contribution-grid-snake.svg">
 </picture>
 
-# 📊 GitHub Stats:
+<h2 align="center">Github Stats</h2>
 ![](https://github-readme-stats.vercel.app/api?username=fajrulfahmi&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=fajrulfahmi&theme=tokyonight&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=fajrulfahmi&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
