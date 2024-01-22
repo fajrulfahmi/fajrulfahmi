@@ -4,7 +4,7 @@
 
 <!-- <h2 align="center">Stats</h2> -->
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Pixelify+Sans&size=20&duration=0.1&repeat=false&color=70A5FD&center=true&vCenter=true&random=false&width=435&lines=Stats" />
+    <img src="https://readme-typing-svg.herokuapp.com/?size=20&duration=0.1&repeat=false&color=70A5FD&center=true&vCenter=true&random=false&width=435&lines=Stats" />
 </h1>
 <br/>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
@@ -18,7 +18,7 @@
 
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Pixelify+Sans&size=20&duration=0.1&repeat=false&color=70A5FD&center=true&vCenter=true&random=false&width=435&lines=Contributions" />
+    <img src="https://readme-typing-svg.herokuapp.com/?size=20&duration=0.1&repeat=false&color=70A5FD&center=true&vCenter=true&random=false&width=435&lines=Contributions" />
 </h1>
 
 <picture>
@@ -29,7 +29,7 @@
 
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Pixelify+Sans&size=20&duration=0.1&repeat=false&color=70A5FD&center=true&vCenter=true&random=false&width=435&lines=Languages-Frameworks" />
+    <img src="https://readme-typing-svg.herokuapp.com/?size=20&duration=0.1&repeat=false&color=70A5FD&center=true&vCenter=true&random=false&width=435&lines=Languages-Frameworks" />
 </h1>
 <br/>
 <div align="center">
