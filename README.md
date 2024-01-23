@@ -15,6 +15,7 @@
   <br/>
   <img width=330 align="center" src="https://github-readme-stats.vercel.app/api?username=fajrulfahmi&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false" />
 </div>
+<br/>
 
 
 <h1 align="center">
