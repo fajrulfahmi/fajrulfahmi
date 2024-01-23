@@ -5,7 +5,7 @@
 <!-- <h2 align="center">Stats</h2> -->
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?size=20&duration=0.1&repeat=false&color=70A5FD&center=true&vCenter=true&random=false&width=435&lines=Stats" />
-</h1>
+
 <br/>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
@@ -19,7 +19,6 @@
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?size=20&duration=0.1&repeat=false&color=70A5FD&center=true&vCenter=true&random=false&width=435&lines=Contributions" />
-</h1>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/fajrulfahmi/fajrulfahmi/output/github-contribution-grid-snake-dark.svg">
@@ -30,13 +29,10 @@
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?size=20&duration=0.1&repeat=false&color=70A5FD&center=true&vCenter=true&random=false&width=435&lines=Languages-Frameworks" />
-</h1>
 <br/>
+    
 <div align="center">
     <img src="https://skillicons.dev/icons?i=html,css,java,javascript,cpp,py,flask,arduino,firebase,figma" />
 <!--     <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,c,java,nextjs,mysql,flask" /><br> -->
 </div>
 <br/>
-
-
-
