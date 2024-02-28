@@ -18,7 +18,7 @@
 <br/>
 
 
-<h1 align="center"></h1>
+<h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?size=20&duration=0.1&repeat=false&color=70A5FD&center=true&vCenter=true&random=false&width=435&lines=Contributions" />
 
 <picture>
