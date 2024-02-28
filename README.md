@@ -18,7 +18,7 @@
 <br/>
 
 
-<h1 align="center">
+<h1 align="center"></h1>
     <img src="https://readme-typing-svg.herokuapp.com/?size=20&duration=0.1&repeat=false&color=70A5FD&center=true&vCenter=true&random=false&width=435&lines=Contributions" />
 
 <picture>
@@ -28,12 +28,12 @@
 </picture>
 
 
-<h1 align="center">
+<h1 align="center"></h1>
     <img src="https://readme-typing-svg.herokuapp.com/?size=20&duration=0.1&repeat=false&color=70A5FD&center=true&vCenter=true&random=false&width=435&lines=Languages-Frameworks" />
 <br/>
     
 <div align="center">
     <img src="https://skillicons.dev/icons?i=html,css,java,javascript,cpp,py,flask,arduino,firebase,figma" />
-<!--     <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,c,java,nextjs,mysql,flask" /><br> -->
+    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,c,java,nextjs,mysql,flask" /><br>
 </div>
 <br/>
